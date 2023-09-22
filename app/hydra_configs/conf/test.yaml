@@ -14,7 +14,7 @@ mephisto:
     extra_source_dir: ${task_dir}/webapp/src/static
     units_per_assignment: 1
   task:
-    task_name: mpt-t
+    task_name: mpt-pro-t
     task_title: "Sample mephisto task"
     task_description: "This is sample mephisto task."
     task_reward: 0.01
