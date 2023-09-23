@@ -8,7 +8,7 @@ mephisto:
   architect:
     _architect_type: ec2
     profile_name: mpt
-    subdomain: "mpt-t.1"
+    subdomain: "mpt-pro-t"
   provider:
     requester_name: my_mturk_user_sandbox
   blueprint:
