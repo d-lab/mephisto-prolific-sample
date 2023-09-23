@@ -96,7 +96,7 @@ jobs:
               ${{ env.APP_NAME }} \
               ${{ secrets.HEROKU_API_KEY }} \
               ${{ env.APP_ENV }} \
-              "https://www.mturk.com/mturk/preview?groupId"\
+              "been published successfully"\
               ${{ secrets.AWS_ACCESS_KEY_ID }} \
               ${{ secrets.AWS_SECRET_ACCESS_KEY }} ;
 
